@@ -1,0 +1,15 @@
+{
+  "originHash" : "d950d7520b76bf38b2beccdae72179103016ce6066d7bd1a917bd67f6ad3f8db",
+  "pins" : [
+    {
+      "identity" : "swiftphoenixclient",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/davidstump/SwiftPhoenixClient.git",
+      "state" : {
+        "revision" : "588bf6baab5d049752748e19a4bff32421ea40ec",
+        "version" : "5.3.2"
+      }
+    }
+  ],
+  "version" : 3
+}
